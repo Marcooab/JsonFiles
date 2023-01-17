@@ -1,0 +1,10 @@
+{
+  "nome": "Marco",
+  "idade": 36,
+  "esta-_trabalhando": true,
+  "detalhes_profissao": {
+    "profissao": "Desenvolvedor",
+    "empresa": "mercado Livre"
+  },
+  "hobbies": ["programar", "ler", "correr"]
+}
